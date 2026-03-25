@@ -4,8 +4,3 @@ Welcome to the University of Birmingham R User Group — a community for student
 We welcome all skill levels, from complete beginners to advanced users.
 
 For more details, see [https://github.com/uob-rug/uob-rug.github.io](https://github.com/uob-rug/uob-rug.github.io)
-
-## 📄 Licence
-
-Unless otherwise specified, content in this repository is licensed under the MIT Licence.
-See LICENSE for details.
